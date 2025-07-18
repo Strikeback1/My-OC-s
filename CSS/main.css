@@ -1,10 +1,26 @@
 body{
-    background: #401622;
+ background: #00FFFF;
+}
+p{
+color: #FF0000;
+font-size: 30px;
+ font-weight: 100;
+text-align: center;
+font-style: Arial;
 }
 h1{
-    color: #87CEEB;
-    font-size: 60px;
-    font-weight: 100;
-    text-align: center;
-    font-style: normal;
+color: #FFD700;
+font-size: 60px;
+font-weight: 100;
+text-align: center;
+font-style: Arial;
+}
+a{
+color: #FFA500;
+text-align: center;
+font-style: Arial;
+font-size: 20px;
+}
+button{
+background: none;
 }
